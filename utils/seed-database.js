@@ -1,3 +1,8 @@
+/*
+export MONGODB_URI=mongodb://admin:admin@ds047107.mlab.com:47107/noteful-app
+node ./utils/seed-database.js
+*/
+
 'use strict';
 
 const mongoose = require('mongoose');
